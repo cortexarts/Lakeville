@@ -1,4 +1,4 @@
-[Long Lake City](https://github.com/cortexarts/Long-Lake-City)
+[Lakeville](https://github.com/cortexarts/Lakeville)
 ==================================================
 
 This project is developed by CortexArts under the GNU GENERAL PUBLIC LICENSE Version 3. <br />
