@@ -1,5 +1,5 @@
 [Lakeville](https://github.com/cortexarts/Lakeville)
 ==================================================
+The future platform for educative content. Together or alone you can explore a virtual world while searching for clues and items to build a rocket to the moon.
 
-This project is developed by CortexArts under the GNU GENERAL PUBLIC LICENSE Version 3.
 Any contributions to this project are welcome and will be credited.
