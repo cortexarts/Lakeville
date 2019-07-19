@@ -91,16 +91,13 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
                 BuildTargetGroup.WebGL,
                 BuildTargetGroup.Android,
                 BuildTargetGroup.iOS,
-                BuildTargetGroup.WP8,
-                BuildTargetGroup.BlackBerry
+                BuildTargetGroup.WSA,
             };
 
         private static BuildTargetGroup[] mobileBuildTargetGroups = new BuildTargetGroup[]
             {
                 BuildTargetGroup.Android,
-                BuildTargetGroup.iOS,
-                BuildTargetGroup.WP8,
-                BuildTargetGroup.BlackBerry,
+                BuildTargetGroup.iOS, 
 				BuildTargetGroup.PSM, 
 				BuildTargetGroup.Tizen, 
 				BuildTargetGroup.WSA 
