@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2821520649559355701}
   - component: {fileID: 5372748927893551614}
   - component: {fileID: 4028326408137327324}
+  - component: {fileID: 2578622830856763263}
   m_Layer: 0
   m_Name: Mill1
   m_TagString: Untagged
@@ -77,6 +78,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2578622830856763263
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3132126102916544080}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 510761183767002031, guid: 6151f556265d11b4abb181cf0bb58380, type: 3}
 --- !u!1 &3507607681526032129
 GameObject:
   m_ObjectHideFlags: 0
